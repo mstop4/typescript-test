@@ -13,9 +13,9 @@
         "sourceType":  "module"
     },
     "rules": {
-        "indent": [
+        "spaces": [
             "error",
-            1
+            2
         ],
         "linebreak-style": [
             "error",
